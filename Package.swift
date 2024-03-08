@@ -20,6 +20,5 @@ let package = Package(
         .target(
             name: "Valet",
             dependencies: []),
-    ],
-    swiftLanguageVersions: [.v5]
+    ]
 )
